@@ -56,9 +56,7 @@ class MyTableViewController: UITableViewController {
     
     override func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath) {
 
-        if selectedIndexPath == indexPath {
-             self.tableView.deselectRowAtIndexPath(indexPath, animated: true)
-        }
+        self.tableView.deselectRowAtIndexPath(indexPath, animated: true)
 
     }
 
