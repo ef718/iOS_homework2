@@ -1,0 +1,17 @@
+Boogie 2 Project
+
+This project will require a good amount of personal research ability.
+We have NOT covered everything related to this project in class.
+
+1. Find the MyIcons.zip file in the folder structure
+2. Unarchive it
+3. Import the images into XCode and then put them in a table view along with the title of the file as the name
+4. When I tap on a cell, the cell should highlight then deselect
+
+
+
+HINTS:
+1. Google: "How to add images to XCode"
+2. Google: "How to show images in UITableViewCells"
+3. Google: "How to deselect a highlighted table view cell"
+
